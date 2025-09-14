@@ -71,6 +71,7 @@ body {
   align-items: stretch;
 }
 
+
 @media (max-width: 900px) {
   .dashboard {
     display: flex;
